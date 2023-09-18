@@ -1,0 +1,12 @@
+[D 230914 23:32:51 selector_events:54] Using selector: KqueueSelector
+[I 230914 23:34:27 autoreload:200] /Users/yuchenguo/Desktop/Github/python-tornado-housing-rental-app/python-tornado-housing-rental-app/config.py modified; restarting server
+[D 230914 23:34:28 selector_events:54] Using selector: KqueueSelector
+[I 230914 23:34:41 autoreload:200] /Users/yuchenguo/Desktop/Github/python-tornado-housing-rental-app/python-tornado-housing-rental-app/server.py modified; restarting server
+[D 230914 23:34:41 selector_events:54] Using selector: KqueueSelector
+[D 230914 23:41:58 Passport:8] debug msg
+[I 230914 23:41:58 Passport:9] info msg
+[W 230914 23:41:58 Passport:10] warning msg
+[E 230914 23:41:58 Passport:11] error msg
+[I 230914 23:41:58 web:2344] 304 GET / (::1) 16.97ms
+[I 230914 23:43:07 autoreload:200] /Users/yuchenguo/Desktop/Github/python-tornado-housing-rental-app/python-tornado-housing-rental-app/server.py modified; restarting server
+[D 230914 23:43:07 selector_events:54] Using selector: KqueueSelector
